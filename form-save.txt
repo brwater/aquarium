@@ -1,0 +1,440 @@
+id :
+disk :
+edge :
+bar :
+ring :
+s0 :
+e :
+shell :
+mspin :
+stream :
+crash :
+lsb :
+id :167
+disk :on
+edge :
+bar :
+ring :
+s0 :
+e :
+shell :
+mspin :
+stream :
+crash :
+lsb :on
+id :462
+disk :on
+edge :
+bar :
+ring :
+s0 :
+e :
+shell :
+mspin :
+stream :
+crash :on
+lsb :
+id :387
+disk :on
+edge :
+bar :on
+ring :on
+s0 :
+e :
+shell :
+mspin :
+stream :
+crash :
+lsb :
+id :855
+disk :
+edge :
+bar :
+ring :
+s0 :on
+e :on
+shell :
+mspin :
+stream :
+crash :
+lsb :
+id :
+disk :
+edge :
+bar :
+ring :
+s0 :
+e :
+shell :
+mspin :
+stream :
+crash :
+lsb :
+id :349
+disk :
+edge :
+bar :
+ring :
+s0 :
+e :on
+shell :on
+mspin :
+stream :
+crash :
+lsb :on
+id :323
+disk :on
+edge :
+bar :
+ring :on
+s0 :
+e :
+shell :
+mspin :
+stream :
+crash :
+lsb :
+id :104
+disk :
+edge :
+bar :
+ring :
+s0 :
+e :on
+shell :
+mspin :
+stream :
+crash :
+lsb :on
+id :84
+disk :on
+edge :
+bar :
+ring :
+s0 :
+e :
+shell :
+mspin :
+stream :
+crash :
+lsb :
+id :579
+disk :
+edge :
+bar :
+ring :
+s0 :
+e :on
+shell :
+mspin :
+stream :
+crash :
+lsb :
+id :
+disk :
+edge :
+bar :
+ring :
+s0 :
+e :
+shell :
+mspin :
+stream :
+crash :
+lsb :
+id :
+disk :
+edge :
+bar :
+ring :
+s0 :
+e :
+shell :
+mspin :
+stream :
+crash :
+lsb :
+id :
+disk :
+edge :
+bar :
+ring :
+s0 :
+e :
+shell :
+mspin :
+stream :
+crash :
+lsb :
+id :
+disk :
+edge :
+bar :
+ring :
+s0 :
+e :
+shell :
+mspin :
+stream :
+crash :
+lsb :
+id :
+disk :
+edge :
+bar :
+ring :
+s0 :
+e :
+shell :
+mspin :
+stream :
+crash :
+lsb :
+id :613
+disk :on
+edge :
+bar :on
+ring :on
+s0 :
+e :
+shell :
+mspin :
+stream :
+crash :
+lsb :
+id :id :id :id :id :614,,,,,,on,on,,,,on
+id :765,,,,,,on,on,,,,
+993,,,,,on,on,,,,,on
+574,on,,,on,,,,,on,,on
+574,on,,,on,,,,,on,,on
+346,on,,,on,,on,,,on,,on
+346,on,,,on,,on,,,on,,on
+624,,,,,,on,,,,,
+624,,,,,,on,,,,,
+420,on,,,,on,,,,,,
+848,on,,,,,,,,,,
+62,on,on,on,on,,,,,,,
+574,,,,,,,,,on,,on
+574,,,,,,,,,on,,on
+791,on,,,on,,,,,,,
+640,,,,,,,,,on,on,on
+635,,,,,,on,,,,,
+349,,,,,,on,on,,,,
+511,,,,,,on,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+252,on,,on,,,,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+87,on,,,,on,on,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+761,on,,,,,,,,,,
+505,on,,,,,,,,,,
+505,on,,,,,,,,,,
+505,on,,,,,,,,,,
+505,on,,,,,,,,,,
+505,on,,,,,,,,,,
+551,,,,,,on,,,,,
+488,on,,,,,,,,,,
+557,on,,,,,,,,,,
+859,on,,,,,,,,,,
+330,on,,,,,on,,,,,
+791,on,,,,,,,,,,
+997,on,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+245,on,,,,,,,,,,
+242,on,,,,,,,,,,
+837,,on,,,on,,,,,,
+945,,,,,,,,,,,
+422,on,,,,,,,,,,
+53,on,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+670,,,,,,on,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+170
