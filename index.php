@@ -37,17 +37,8 @@ img {
   width: 0;
 }
 
-.flex-container {
-  display: flex;
-  background-color: DodgerBlue;
-}
 
-.flex-container > div {
-  background-color: #f1f1f1;
-  margin: 10px;
-  padding: 20px;
-  font-size: 30px;
-}
+
 div label input {
    margin-right:100px;
 }
@@ -55,46 +46,7 @@ body {
     font-family:sans-serif;
 }
 
-#ck-button {
-    margin:1px;
-    background-color:#EFEFEF;
-    border-radius:10px;
-    border: solid #D0D0D0;
-    overflow:auto;
-    float:left;
-    width: 200px;
-    height: 100px;
-    font-size: 2vw;
-    vertical-align: middle;
-    cursor: pointer;
-}
 
-#ck-button a{display: inline-block;}
-
-#ck-button label {
-    float:center;
-    width:4.0em;
-}
-
-#ck-button label span {
-    text-align:center;
-    padding:3px 0px;
-}
-
-#ck-button label input {
-    position:absolute;
-    top:-20px;
-    font-size: 20vw;
-}
-
-#ck-button input:checked + span {
-    background-color:#911;
-    color:#fff;
-}
-
-#ck-button:hover {
-    background:red;
-}
 
 </style>
 
@@ -107,7 +59,7 @@ body {
 
 <h1>Galaxy Aquarium</h1>
 
-<a href="classify.php">Classify</a>
+<a href="classify_home.php">Classify</a>
 <a href="tutorial.asp">Tutorial</a>
 <a href="results.php">Results</a>
 
